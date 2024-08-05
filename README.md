@@ -15,4 +15,4 @@ The dataset used in this project is the Fashion MNIST Dataset, which is an advan
   - **Image_Classification_architecture1.ipynb**: This notebook contains the first model for image classification.
   - **Image_Classification_architecture1.ipynb**: This notebook uses an alternative architecture for the image classification task, demonstrating a different approach to improving model performance.
 
-
+- this project is referenced from this good article : https://thecleverprogrammer.com/2020/08/30/image-classification-with-tensorflow-in-machine-learning/
