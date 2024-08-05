@@ -11,4 +11,8 @@ The dataset used in this project is the Fashion MNIST Dataset, which is an advan
 - **Task**: Image classification using TensorFlow.
 - **Dataset**: Fashion MNIST.
 - **Goal**: To classify images of clothing based on their spectral and textural characteristics.
+- - **Notebooks**:
+  - **Image_Classification_architecture1.ipynb**: This notebook contains the first model for image classification.
+  - **Image_Classification_architecture1.ipynb**: This notebook uses an alternative architecture for the image classification task, demonstrating a different approach to improving model performance.
+
 
